@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/GamerVault/', // Esto es VITAL para GitHub Pages
+  base: './', // Esto asegura que las rutas funcionen en cualquier subcarpeta de GitHub
 })
