@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/GamerVault/', 
+  base: '/GamerVault/', // Esto es VITAL para GitHub Pages
 })
